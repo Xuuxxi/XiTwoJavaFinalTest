@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1><a href="Class_/AddClass_">添加</a></h1>
+<h1><a href="Class_/UpdateClass_">编辑</a></h1>
+<h1><a href="Class_/DeleteClass_">删除</a></h1>
+<h1><a href="Class_/SelectAllClass_">查看所有课程</a></h1>
+</body>
+</html>

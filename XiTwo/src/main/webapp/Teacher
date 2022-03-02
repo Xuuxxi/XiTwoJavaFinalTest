@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1><a href="Teacher_/AddTeacher">添加</a></h1>
+<h1><a href="Teacher_/UpdateTeacher">编辑</a></h1>
+<h1><a href="Teacher_/DeleteTeacher">删除</a></h1>
+<h1><a href="Teacher_/SelectAllTeacher">查看所有老师</a></h1>
+<h1><a href="/XiTwo/SelectTeacherByPage?currentPage=1&pageSize=5">分页查看老师</a></h1>
+</body>
+</html>

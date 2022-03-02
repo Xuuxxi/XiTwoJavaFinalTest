@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1><a href="Student_/AddStudent">添加</a></h1>
+    <h1><a href="Student_/UpdateStudent">编辑</a></h1>
+    <h1><a href="Student_/DeleteStudent">删除</a></h1>
+    <h1><a href="Student_/SelectAllStudent">查看所有学生</a></h1>
+    <h1><a href="/XiTwo/SelectStudentByPage?currentPage=1&pageSize=5">分页查看学生</a></h1>
+    <h1><a href="Student_/SelectStudentByName">通过名字搜索</a></h1>
+</body>
+</html>
